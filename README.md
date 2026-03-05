@@ -121,7 +121,7 @@ Repo: https://github.com/pateldrup
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo" />
+<img src="https://leetcard.jacoblin.cool/Patel_Drup?theme=dark&font=baloo" />
 </p>
 
 ---
