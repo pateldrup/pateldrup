@@ -87,19 +87,6 @@ Features:
 
 Repo: https://github.com/pateldrup
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pateldrup&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldrup&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -119,17 +106,6 @@ Repo: https://github.com/pateldrup
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/pateldrup/pateldrup/output/snake.svg"/>
-
-</p>
-
----
 
 # 🧠 LeetCode
 
