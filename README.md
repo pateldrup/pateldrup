@@ -89,38 +89,39 @@ Repo: https://github.com/pateldrup
 
 ---
 
----
-
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pateldrup/pateldrup/output/snake.svg"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pateldrup&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldrup&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 ## 🌐 Contact Me
 
-<p>
+<p align="center">
 
 <a href="mailto:druppatel45@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/patel-drup-7018073a1">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@TechWithDrup">
-<img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://github.com/pateldrup">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 ## 📍 Location
