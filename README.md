@@ -1,4 +1,4 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HERO ================= -->
 
 <h1 align="center">Hi 👋 I'm Drup Patel</h1>
 
@@ -7,51 +7,51 @@ Full Stack Developer • Computer Science Engineering Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 ## 👨‍💻 Developer Summary
 
-- 🎓 Computer Science Engineering Student
-- 💻 Full Stack Developer (MERN Stack)
-- 🚀 Passionate about building scalable web applications
-- 🧠 Currently learning Data Structures & Algorithms
-- 🌍 Interested in Open Source Contributions
+- 🎓 Computer Science Engineering Student  
+- 💻 Full Stack Developer (MERN Stack)  
+- 🚀 Passionate about building scalable web applications  
+- 🧠 Currently learning Data Structures & Algorithms  
+- 🌍 Interested in Open Source Contributions  
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ### 🛠 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ### ☁️ Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🛒 E-Commerce REST API
 Node.js • Express • MongoDB  
@@ -89,19 +89,59 @@ Repo: https://github.com/pateldrup
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pateldrup&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pateldrup&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldrup&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateldrup&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Contact Me
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pateldrup&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldrup&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/pateldrup/pateldrup/output/snake.svg"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Patel_Drup?theme=dark"/>
+
+</p>
+
+---
+
+# 🌐 Contact Me
 
 <p align="center">
 
@@ -122,12 +162,9 @@ Repo: https://github.com/pateldrup
 </a>
 
 </p>
----
-
-## 📍 Location
-
-India 🇮🇳
 
 ---
+
+📍 India 🇮🇳  
 
 ⭐ From [Drup Patel](https://github.com/pateldrup)
