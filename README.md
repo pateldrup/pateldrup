@@ -106,17 +106,6 @@ Repo: https://github.com/pateldrup
 
 </p>
 
-
-# 🧠 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Patel_Drup?theme=dark"/>
-
-</p>
-
----
-
 # 🌐 Contact Me
 
 <p align="center">
