@@ -52,7 +52,6 @@ Full Stack Developer • Computer Science Engineering Student
 ---
 
 # 🚀 Featured Projects
-## 🚀 Featured Projects
 
 | 🏷️ Project                                                       | 📝 Description                                                                                | 🔧 Tech   |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- |
