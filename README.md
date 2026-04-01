@@ -52,40 +52,16 @@ Full Stack Developer • Computer Science Engineering Student
 ---
 
 # 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 E-Commerce REST API
-Node.js • Express • MongoDB  
+| 🏷️ Project                                                       | 📝 Description                                                                                | 🔧 Tech   |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- |
+| [📰 CNBC Clone](https://github.com/pateldrup/WebSite_1.git)       | A responsive clone of the CNBC website featuring modern news layout, sections, and UI design. | HTML, CSS |
+| [💡 Havells Clone](https://github.com/pateldrup/WebSite_2.git)    | Clone of the Havells website with clean UI, product sections, and responsive design.          | HTML, CSS |
+| [🎓 APEUni Clone](https://github.com/pateldrup/WebSite_3.git)     | Educational platform website clone with structured layout and modern UI components.           | HTML, CSS |
+| [🚗 Tata Motors Cars](https://github.com/pateldrup/WebSite_4.git) | Tata Motors cars website clone showcasing vehicle listings and stylish UI design.             | HTML, CSS |
+| [📶 Jio Clone](https://github.com/pateldrup/WebSite_5.git)        | Jio website clone with telecom product sections, modern layout, and responsive UI.            | HTML, CSS |
 
-Features:
-- Product CRUD API
-- Authentication
-- Order management
-
-Repo: https://github.com/pateldrup
-
----
-
-### 📊 Student CGPA API
-Express.js REST API project.
-
-Features:
-- JSON database
-- Filtering system
-- Clean API architecture
-
-Repo: https://github.com/pateldrup
-
----
-
-### 🌐 Full Stack Web Application
-React • Node.js • MongoDB
-
-Features:
-- Modern UI
-- Backend API
-- Database integration
-
-Repo: https://github.com/pateldrup
 
 
 # 🔥 GitHub Streak
