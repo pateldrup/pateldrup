@@ -85,7 +85,7 @@ Full Stack Developer • Computer Science Engineering Student
 
 <p align="center">
 
-<a href="mailto:druppatel45@gmail.com">
+<a href="mailto:pateldrup.cg@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
