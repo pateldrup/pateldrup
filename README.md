@@ -92,3 +92,15 @@ class DrupPatel:
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
   <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma"/>
 </p>
+
+
+## 🚀 Advanced GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pateldrup&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pateldrup&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pateldrup&theme=tokyonight"/>
+</p>
