@@ -11,6 +11,22 @@ Full Stack Developer • Computer Science Engineering Student
 </p>
 
 ---
+## 🧠 About Me
+
+```python
+class DrupPatel:
+    def __init__(self):
+        self.name = "Drup Patel"
+        self.role = "Computer Engineering Student"
+        self.semester = "2nd Semester"
+        self.location = "Gujarat, India 🇮🇳"
+        self.passions = ["Web Development", "AI & ML", "Open Source"]
+        self.currently = "Building cool projects & exploring new tech 🚀"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome together 🚀")
+
+
 
 ## 👨‍💻 Developer Summary
 
