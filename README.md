@@ -25,7 +25,7 @@ class DrupPatel:
 ```
 # 🌐 Contact Me
 
-<p>I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
+  <p>I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
 </p>
 
 <p align="center">
