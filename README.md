@@ -94,6 +94,7 @@ class DrupPatel:
 </p>
 
 
+
 ## 🚀 Advanced GitHub Stats
 
 <p align="center">
@@ -104,3 +105,25 @@ class DrupPatel:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pateldrup&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pateldrup&theme=tokyonight"/>
 </p>
+
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldrup&theme=react-dark"/>
+
+</p>
+
+
+
+
+## 👨‍💻 Developer Summary
+
+- 🎓 Computer Science Engineering Student  
+- 💻 Full Stack Developer (MERN Stack)  
+- 🚀 Passionate about building scalable web applications  
+- 🧠 Currently learning Data Structures & Algorithms  
+- 🌍 Interested in Open Source Contributions  
+
