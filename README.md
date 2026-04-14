@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=25&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building...;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pateldrup&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 ## 🧠 About Me
