@@ -39,6 +39,9 @@ I believe in learning by building — creating projects, participating in hackat
   <a href="https://leetcode.com/u/BvG8JaFD6S/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://www.youtube.com/@TechWithDrup/videos" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 </p>
 
 
