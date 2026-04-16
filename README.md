@@ -1,8 +1,10 @@
-<h1 align="center" style="background: linear-gradient(to right, #1e3c72, #2a5298); -webkit-background-clip: text; color: transparent;">
+<h1 align="center" style="color:#00ff88;">
   Drup Patel
 </h1>
 
-<h3 align="center">Aspiring Developer | Problem Solver | Building Cool Stuff 🚀</h3>
+<h3 align="center" style="color:#00cc66;">
+  🚀 Computer Engineering Student | 💻 Web Dev | 🤖 AI & ML
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=25&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building...;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
