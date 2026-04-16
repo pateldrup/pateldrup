@@ -11,33 +11,18 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
----
+I am a passionate **1st year Computer Science (CSE) student** with a strong interest in technology, problem-solving, and building real-world projects. I enjoy learning new concepts in programming and continuously improving my skills in software development.
 
-🎓 **1st Year B.Tech CS** @ Swaminarayan University, Kalol, Gujarat  
+I am focused on developing a solid foundation in **data structures, algorithms, and web development**, while also exploring emerging fields like **Artificial Intelligence and system design**.
 
-🏆 **Rank 4 National Finalist** — IIT Madras | National Digital Identity Hackathon  
+I believe in learning by building — creating projects, participating in hackathons, and solving coding problems to grow as a developer.
 
-🥈 **2nd Place** — ElectroSphere 2K26  
+💡 *I aim to become a skilled software engineer who builds impactful and scalable solutions.*
 
-🤖 Building **ARKIS** — a local-first, voice-first Electron AI desktop OS  
 
-🚀 Founding **APEX** — AI-powered workforce intelligence platform  
 
-⚡ Building **GridSaathi** — AI infra monitoring for India's power grid  
-
-🌐 Portfolio → https://portfolio-rho-black-tge2kcfu5f.vercel.app/  
-
-💻 GitHub → https://github.com/pateldrup  
-
-🐦 Twitter → https://x.com/PatelDrup  
-
-📄 Resume → https://drive.google.com/ (⚠️ upload your resume to Google Drive & paste link here)
-
-📩 Email → kakkadrachit1@gmail.com  
-
-💡 *I don’t just write code — I architect cognition. First year student, production-grade builder.*
 ## 🛠️ Tech Stack & Skills
 
 ---
