@@ -11,48 +11,33 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```python
-class DrupPatel:
-    def __init__(self):
-        self.name = "Drup Patel"
-        self.role = "Computer Engineering Student"
-        self.semester = "2nd Semester"
-        self.location = "Gujarat, India"
-        self.passions = ["Web Development", "AI & ML", "Open Source"]
-        self.currently = "Building cool projects & exploring new tech"
+---
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome together 🚀")
+🎓 **1st Year B.Tech CS** @ Swaminarayan University, Kalol, Gujarat  
 
-```
-# 🌐 Contact Me
+🏆 **Rank 4 National Finalist** — IIT Madras | National Digital Identity Hackathon  
 
-  <p>I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
-</p>
+🥈 **2nd Place** — ElectroSphere 2K26  
 
-<p align="center">
+🤖 Building **ARKIS** — a local-first, voice-first Electron AI desktop OS  
 
-<a href="mailto:pateldrup.cg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🚀 Founding **APEX** — AI-powered workforce intelligence platform  
 
-<a href="https://www.linkedin.com/in/patel-drup-7018073a1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+⚡ Building **GridSaathi** — AI infra monitoring for India's power grid  
 
-<a href="https://youtube.com/@TechWithDrup">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+🌐 Portfolio → https://portfolio-rho-black-tge2kcfu5f.vercel.app/  
 
-<a href="https://github.com/pateldrup">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+💻 GitHub → https://github.com/pateldrup  
 
-</p>
+🐦 Twitter → https://x.com/PatelDrup  
 
+📄 Resume → https://drive.google.com/ (⚠️ upload your resume to Google Drive & paste link here)
 
+📩 Email → kakkadrachit1@gmail.com  
+
+💡 *I don’t just write code — I architect cognition. First year student, production-grade builder.*
 ## 🛠️ Tech Stack & Skills
 
 ---
