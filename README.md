@@ -7,10 +7,6 @@
   </span>
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:003d1f&height=200&section=header&text=Drup%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Web%20Developer%20•%20AI%20%26%20ML&descAlignY=55&descSize=18"/>
-</p>
-
 <h3 align="center" style="color:#66ff99;">
   🚀 Aspiring Developer | Problem Solver | Tech Enthusiast
 </h3>
