@@ -1,10 +1,8 @@
-<h1 align="center" style="color:#00ff88;">
-  Drup Patel
-</h1>
+<h1 align="center" style="color:#00ff88;">Drup Patel</h1>
 
-<h3 align="center" style="color:#00cc66;">
-  🚀 Computer Engineering Student | 💻 Web Dev | 🤖 AI & ML
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF88&center=true&vCenter=true&lines=Computer+Engineering+Student;Web+Developer;AI+%26+ML+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=25&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building...;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
