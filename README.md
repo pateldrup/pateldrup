@@ -34,7 +34,7 @@ I believe in learning by building — creating projects, participating in hackat
 ## Let's Connect
 
 <p align="center">
-  <a href="https://portfolio-rho-black-tge2kcfu5f.vercel.app/">
+  <a href="https://drup-patel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/patel-drup-7018073a1/">
